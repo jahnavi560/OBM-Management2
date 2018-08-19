@@ -1,0 +1,40 @@
+Exam Que:
+
+ArrayList properties
+Method inner class - Which Access modifier is used
+Best worst case complexity = Quick Sort
+ConncurrentModificationException
+Finally executed or not?
+Object class method or not?
+overload main method or not?
+which are inheritance access modifiers with methods
+which are marker interface = Serializable , Clonable , Random-Access 
+
+Int Que : 
+
+All Access modifiers. Diff between default and protected
+Immutable Class example using another Class reference without removing setters
+Singleton class with synchronized example
+Sorting Arraylist
+Hashmap internal working of get, put
+Comparable and Comparator
+Custom Exception
+String Example : String s= "Chirag" (1 Object)
+		 String s= new String("Chirag") (2 object)
+Diff between == and equals()
+synchronized block and method
+Type of Exception with example
+Hashset uniqueness using custom hashCode and equals method
+
+Final List l = new ArrayList(); = true
+l.add or remove = true
+l = new ArrayList(); = False 
+
+Diff between HashMap and Hashtable
+Diff between List,Set and Map
+
+
+
+	
+
+

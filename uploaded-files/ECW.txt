@@ -1,0 +1,39 @@
+﻿1 What is return by arraylist add method 
+2 Character frequency in paragraph(program)
+3 Write a function find square root of N number
+4 complexities of hashmap, treeset, hashset
+5 What is time complexity of bubble sort
+6 Java is pass by value or pass by ref
+7 Write a query for creating a table in sql
+8 What are the OOPS concept? Explain in detail. 
+Example of runtime polymorphism. 
+Difference of == and .equals() in String context 
+Difference between ArrayList and LinkedList. 
+When should I use ArrayList or LinkedList. 
+Child class’s constructor will call parent class’s constructor by default?
+ Overriding method with throws. 
+What is singleton class? With example.
+ Internal working of HashMap. 
+How to sort Employee class based on age variable? 
+Difference between Comparable and Comparator. When should we use either of it?
+ Difference between List and Set.
+ Difference between ArrayList and Vector. 
+What is synchronized? 
+Explain A a = new A(); What is new? How it is assigned to memory?
+ Where JVM store variable other than heap? 
+Write programme of factorial using recursion. 
+What is static? What is final? finally and finalize, When to use it? 
+What are the OOPS concepts? 
+Parent p = new Child(); vs Child c = new Parent();
+ What is serialization?
+Difference between Drop, Delete and Truncate
+
+
+
+1
+ two mwthods :
+public boolean add(E e) 
+ public void add(int index, E element)
+2  using hashmap we count characters easily
+3  By rotating loop with assumed numbers range
+4 treeset : logn hashmap, hashset best 1 worst n
